@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+div{
+	width: 200px;
+	height: 80px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.amarillo{
+	background: yellow;
+}
+.rojo{
+	background: red;
+}

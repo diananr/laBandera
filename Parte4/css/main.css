@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+}
+div{
+	padding: 10px;
+	margin: 20px;
+	display: inline-block;
+}
+.amarillo{
+	background: yellow;
+}
+.rojo{
+	background: red;
+}
